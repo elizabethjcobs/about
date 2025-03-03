@@ -1,4 +1,5 @@
 👋 Hi, I'm Elizabeth!
+
 🔬 Bridging psychology & AI | 🎭 Modeling human empathy | 🔐 Cybersecurity & policy
 
 I have a background in Computer Science & Psychology (MSc, University of Glasgow) and specialise in:
